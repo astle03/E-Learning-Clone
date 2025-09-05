@@ -882,6 +882,14 @@ a {
 
 
 @media screen and (max-width: 768px) {
+    img.c12img {
+    width: 100%;
+    }
+    img.p2 {
+    width: 100%;
+    }
+
+    
     .header-responsive-menu {
         display: block;
     }
@@ -1025,4 +1033,5 @@ a {
         height: auto;
         padding: 40px 0px;
     }
+
 }
